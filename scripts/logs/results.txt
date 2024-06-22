@@ -1,0 +1,118 @@
+2024-06-05 23:06:12: 10.0.1.2 now has 58.1267073626 diffrent source.
+
+2024-06-05 23:06:12: 10.0.1.3 now has 5.04947336903 diffrent source.
+
+2024-06-05 23:06:13: 10.0.1.4 now has 61.9193693236 diffrent source.
+
+2024-06-05 23:06:31: 10.0.1.2 now has 1085.39037216 diffrent source.
+
+2024-06-05 23:06:31: 10.0.1.3 now has 943.282784995 diffrent source.
+
+2024-06-05 23:06:31: 10.0.1.4 now has 1028.71412543 diffrent source.
+
+2024-06-05 23:06:41: 10.0.1.2 now has 2040.51000732 diffrent source.
+
+2024-06-05 23:06:41: 10.0.1.3 now has 2159.97122166 diffrent source.
+
+2024-06-05 23:06:41: 10.0.1.4 now has 2175.66751787 diffrent source.
+
+2024-06-05 23:06:43: 10.0.1.2 now has 2918.8402607 diffrent source.
+
+2024-06-05 23:06:43: 10.0.1.3 now has 2919.70215561 diffrent source.
+
+2024-06-05 23:06:43: 10.0.1.4 now has 3311.34750376 diffrent source.
+
+2024-06-05 23:06:52: 10.0.1.2 now has 4162.47125712 diffrent source.
+
+2024-06-05 23:06:52: 10.0.1.3 now has 4004.3994455 diffrent source.
+
+2024-06-05 23:06:52: 10.0.1.4 now has 4264.66636662 diffrent source.
+
+2024-06-05 23:06:54: 10.0.1.2 now has 5014.1687541 diffrent source.
+
+2024-06-05 23:06:54: 10.0.1.3 now has 4744.9785552 diffrent source.
+
+2024-06-05 23:06:54: 10.0.1.4 now has 5020.95859746 diffrent source.
+
+2024-06-05 23:06:57: 10.0.1.2 now has 5780.19099743 diffrent source.
+
+2024-06-05 23:06:57: 10.0.1.3 now has 6299.84254795 diffrent source.
+
+2024-06-05 23:06:57: 10.0.1.4 now has 6320.18327273 diffrent source.
+
+2024-06-05 23:06:59: 10.0.1.2 now has 6565.52698952 diffrent source.
+
+2024-06-05 23:06:59: 10.0.1.3 now has 7092.37759472 diffrent source.
+
+2024-06-05 23:06:59: 10.0.1.4 now has 6830.68803278 diffrent source.
+
+2024-06-05 23:07:05: 10.0.1.2 now has 7332.56630923 diffrent source.
+
+2024-06-05 23:07:05: 10.0.1.3 now has 8436.77472165 diffrent source.
+
+2024-06-05 23:07:06: 10.0.1.4 now has 7520.17750697 diffrent source.
+
+2024-06-05 23:07:09: 10.0.1.3 now has 9164.61872763 diffrent source.
+
+2024-06-05 23:07:10: 10.0.1.2 now has 8621.72676607 diffrent source.
+
+2024-06-05 23:07:10: 10.0.1.4 now has 8159.19051675 diffrent source.
+
+2024-06-05 23:07:12: 10.0.1.2 now has 9608.18403624 diffrent source.
+
+2024-06-05 23:07:12: 10.0.1.3 now has 9693.56381696 diffrent source.
+
+2024-06-05 23:07:13: 10.0.1.4 now has 9102.10220938 diffrent source.
+
+2024-06-05 23:07:18: 10.0.1.2 now has 11338.2532513 diffrent source.
+
+2024-06-05 23:07:18: 10.0.1.3 now has 10572.7431854 diffrent source.
+
+2024-06-05 23:07:20: 10.0.1.4 now has 9993.7713731 diffrent source.
+
+2024-06-05 23:07:24: 10.0.1.2 now has 11998.4959769 diffrent source.
+
+2024-06-05 23:07:24: 10.0.1.3 now has 11766.3827603 diffrent source.
+
+2024-06-05 23:07:26: 10.0.1.4 now has 11114.8804463 diffrent source.
+
+2024-06-05 23:07:32: 10.0.1.2 now has 12709.1049437 diffrent source.
+
+2024-06-05 23:07:32: 10.0.1.3 now has 12722.1029396 diffrent source.
+
+2024-06-05 23:07:32: 10.0.1.4 now has 12281.6632334 diffrent source.
+
+2024-06-05 23:07:34: 10.0.1.2 now has 13502.0890127 diffrent source.
+
+2024-06-05 23:07:34: 10.0.1.3 now has 13752.9748637 diffrent source.
+
+2024-06-05 23:07:34: 10.0.1.4 now has 12974.2164795 diffrent source.
+
+2024-06-05 23:07:36: 10.0.1.2 now has 14438.3578779 diffrent source.
+
+2024-06-05 23:07:36: 10.0.1.3 now has 14327.3142189 diffrent source.
+
+2024-06-05 23:07:36: 10.0.1.4 now has 13336.7801827 diffrent source.
+
+2024-06-05 23:07:38: 10.0.1.2 now has 15186.6596646 diffrent source.
+
+2024-06-05 23:07:38: 10.0.1.3 now has 15118.189603 diffrent source.
+
+2024-06-05 23:07:38: 10.0.1.4 now has 14287.5013784 diffrent source.
+
+2024-06-05 23:07:40: 10.0.1.2 now has 15963.7217338 diffrent source.
+
+2024-06-05 23:07:40: 10.0.1.3 now has 16502.5692883 diffrent source.
+
+2024-06-05 23:07:40: 10.0.1.4 now has 15293.8709527 diffrent source.
+
+2024-06-05 23:07:42: 10.0.1.2 now has 17049.2378726 diffrent source.
+
+2024-06-05 23:07:42: 10.0.1.3 now has 17649.1029304 diffrent source.
+
+2024-06-05 23:07:42: 10.0.1.4 now has 16305.2711291 diffrent source.
+
+2024-06-05 23:07:44: 10.0.1.2 now has 17877.5921281 diffrent source.
+
+2024-06-05 23:07:44: 10.0.1.3 now has 18676.5628451 diffrent source.
+
